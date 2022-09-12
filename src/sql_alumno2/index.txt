@@ -1,0 +1,14 @@
+PrincipalInsert:
+    Insertar un registro en la Tabla Alumno
+
+PrincipalSelect1:
+    Buscar un alumno por su identificador
+
+PrincipalSelect2:
+    Mostrar todos los registros de la tabla Alumno
+
+
+Hacer un programa que pida por teclado nombre, edad, estatura
+el programa evaluará la estatura si está entre [1.5 y 1.7] lo
+ingresará, en caso contrario dirá que no puede ser registrado
+por no cumplir la estatura con la condición

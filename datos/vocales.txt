@@ -1,0 +1,12 @@
+A: 4
+E: 1
+I: 0
+O: 5
+U: 1
+TOTAL VOCALES: 11
+A: 4
+E: 1
+I: 0
+O: 5
+U: 1
+TOTAL VOCALES: 11

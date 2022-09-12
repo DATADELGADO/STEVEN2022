@@ -1,0 +1,57 @@
+[   
+    {
+        "codigo": 1,
+        "nombre": "Luis",
+        "paterno": "Roncal",
+        "asignaturas_l": [{
+                "idCurso": "C1",
+                "nombre": "Matematica",
+                "notas": [{
+                        "examen": 8,
+                        "fecha": "enero"
+                    }, {
+                        "examen": 19,
+                        "fecha": "febrero"
+                    }]
+            }, {
+                "idCurso": "C2",
+                "nombre": "Fisica",
+                "notas": [{
+                        "examen": 7,
+                        "fecha": "marzo"
+                    }, {
+                        "examen": 12,
+                        "fecha": "abril"
+                    }]
+            }]
+    },
+
+    {
+        "codigo": 2,
+        "nombre": "Miguel",
+        "paterno": "Ledezma",
+        "asignaturas_l": [{
+                "idCurso": "C2",
+                "nombre": "Fisica",
+                "notas": [{
+                        "examen": 20,
+                        "fecha": "mayo"
+                    }, {
+                        "examen": 18,
+                        "fecha": "junio"
+                    }, {
+                        "examen": 10,
+                        "fecha": "julio"
+                    }, {
+                        "examen": 14,
+                        "fecha": "agosto"
+                    }]
+            }]
+    }, 
+    {
+        "codigo": 3,
+        "nombre": "Carlos",
+        "paterno": "Alva",
+        "asignaturas_l": []
+    }
+]

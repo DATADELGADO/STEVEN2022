@@ -1,0 +1,21 @@
+[   
+    {
+        "codigo": 1,
+        "nombre": "Luis",
+        "paterno": "Roncal",
+        "asignaturas_l": ["Matemática", "Física"]
+    }, 
+    {
+        "codigo": 2,
+        "nombre": "Miguel",
+        "paterno": "Ledezma",
+        "asignaturas_l": ["Física"]
+    }, 
+    {
+        "codigo": 3,
+        "nombre": "Carlos",
+        "paterno": "Alva",
+        "asignaturas_l": ["Física", "Química", "Matemática"]
+    }
+]
+

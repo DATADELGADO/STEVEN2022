@@ -1,0 +1,24 @@
+1. Crear un programa que pida por teclado la ruta y nombre cuaquiera de un archivo texto,
+   el programa nos dirá cuantas vocales contiene dicho archivo y cuantas de cada vocal.
+
+2. Crear un programa que pida por teclado la ruta y nombre cuaquiera de un archivo texto,
+   el programa nos dirá cuantas palabras tiene el archivo.
+
+3. Crear un programa que pida por teclado la ruta y nombre cuaquiera de un archivo texto,
+   el programa nos mostrará cada fila del archivo numerada.
+
+4. Crear un programa que pida por teclado la ruta y nombre de un archivo texto cualquiera,
+   el programa nos dirá cuantas vocales y cuantas consonantes.
+
+5. Crear un programa que pida por teclado la ruta y nombre cuaquiera de un archivo texto,
+   el programa nos dirá cuantos caracteres distintos a las vocales y consonantes.
+
+6. Crear un programa que pida por teclado la ruta y nombre cuaquiera de un archivo texto,
+   el programa nos dirá cuantas vocales contiene dicho archivo y cuantas de cada vocale y 
+   se grabará el resultado también en un archivo.
+
+7. Ocultar un archivo, manejando el atributo del archivo.
+
+
+
+

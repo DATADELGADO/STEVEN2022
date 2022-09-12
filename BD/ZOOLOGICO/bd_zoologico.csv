@@ -1,0 +1,47 @@
+IdZoo;Descripcion;Ciudad;Superficie;Presupuesto;Pais;IdAnimal;Nacimiento;PaisOrigen;Continente;Sexo;IdEspecie;NombreVulgar;NombreCientifico;Familia;PeligroExtinsion
+Z01;Faunia;Madrid;10;200000;Españ;A01;01/01/2013;Kenya;Africa;M;E01;Elefante;Elphas maximus;Elephantidae;1
+Z01;Faunia;Madrid;10;200000;Españ;A02;02/02/2014;Zimbabwe;Africa;H;E01;Elefante;Elphas maximus;Elephantidae;1
+Z01;Faunia;Madrid;10;200000;Españ;A03;03/03/2015;Angola;Africa;M;E02;Leon;Panthera leo;Felidade;1
+Z01;Faunia;Madrid;10;200000;Españ;A04;04/04/2016;Kenya;Africa;H;E02;Leon;Panthera leo;Felidade;1
+Z01;Faunia;Madrid;10;200000;Españ;A05;05/05/2017;Etiopí;Africa;M;E03;Jirafa;Giraffa camelopardalis;Giraffidae;1
+Z01;Faunia;Madrid;10;200000;Españ;A06;06/06/2018;Somalí;Africa;H;E03;Jirafa;Giraffa camelopardalis;Giraffidae;1
+Z01;Faunia;Madrid;10;200000;Españ;A07;07/07/2019;Italia;Europa;M;E04;Ardilla roja;Sciurus vulgaris;Sciuridae;0
+Z01;Faunia;Madrid;10;200000;Españ;A08;08/08/2020;Irlanda;Europa;H;E04;Ardilla roja;Sciurus vulgaris;Sciuridae;0
+Z02;Safari Madrid;Madrid;20;300000;Españ;A09;01/01/2013;Angola;Africa;M;E02;Leon;Panthera leo;Felidade;1
+Z02;Safari Madrid;Madrid;20;300000;Españ;A10;02/02/2014;Camerú;Africa;H;E02;Leon;Panthera leo;Felidade;1
+Z02;Safari Madrid;Madrid;20;300000;Españ;A11;03/03/2015;Etiopí;Africa;M;E03;Jirafa;Giraffa camelopardalis;Giraffidae;1
+Z02;Safari Madrid;Madrid;20;300000;Españ;A12;04/04/2016;Nigeria;Africa;H;E03;Jirafa;Giraffa camelopardalis;Giraffidae;1
+Z02;Safari Madrid;Madrid;20;300000;Españ;A13;05/05/2017;Italia;Europa;M;E04;Ardilla roja;Sciurus vulgaris;Sciuridae;0
+Z02;Safari Madrid;Madrid;20;300000;Españ;A14;06/06/2018;Inglaterra;Europa;H;E04;Ardilla roja;Sciurus vulgaris;Sciuridae;0
+Z03;Bioparc;Valencia;30;100000;Españ;A15;01/01/2012;Bostswana;Africa;M;E01;Elefante;Elphas maximus;Elephantidae;1
+Z03;Bioparc;Valencia;30;100000;Españ;A16;02/02/2013;Kenya;Africa;H;E01;Elefante;Elphas maximus;Elephantidae;1
+Z03;Bioparc;Valencia;30;100000;Españ;A17;03/03/2014;Camerú;Africa;M;E02;Leon;Panthera leo;Felidade;1
+Z03;Bioparc;Valencia;30;100000;Españ;A18;04/04/2015;kenya;Africa;H;E02;Leon;Panthera leo;Felidade;1
+Z03;Bioparc;Valencia;30;100000;Españ;A19;05/05/2016;Etiopí;Africa;M;E03;Jirafa;Giraffa camelopardalis;Giraffidae;1
+Z03;Bioparc;Valencia;30;100000;Españ;A20;06/06/2017;Mozambique;Africa;H;E03;Jirafa;Giraffa camelopardalis;Giraffidae;1
+Z04;MundoParc;Sevilla;20;50000;Españ;A21;01/01/2012;Zimbabwe;Africa;M;E01;Elefante;Elphas maximus;Elephantidae;1
+Z04;MundoParc;Sevilla;20;50000;Españ;A22;02/02/2013;Bostswana;Africa;H;E01;Elefante;Elphas maximus;Elephantidae;1
+Z04;MundoParc;Sevilla;20;50000;Españ;A23;03/03/2014;Camerú;Africa;M;E02;Leon;Panthera leo;Felidade;1
+Z04;MundoParc;Sevilla;20;50000;Españ;A24;04/04/2015;Kenya;Africa;H;E02;Leon;Panthera leo;Felidade;1
+Z04;MundoParc;Sevilla;20;50000;Españ;A25;05/05/2016;Zimbabwe;Africa;M;E03;Jirafa;Giraffa camelopardalis;Giraffidae;1
+Z04;MundoParc;Sevilla;20;50000;Españ;A26;06/06/2017;Mozambique;Africa;H;E03;Jirafa;Giraffa camelopardalis;Giraffidae;1
+Z04;MundoParc;Sevilla;20;50000;Españ;A27;07/07/2018;Españ;Europa;M;E04;Ardilla roja;Sciurus vulgaris;Sciuridae;0
+Z04;MundoParc;Sevilla;20;50000;Españ;A28;08/08/2019;Italia;Europa;H;E04;Ardilla roja;Sciurus vulgaris;Sciuridae;0
+Z05;Zoologico Cali;Cali;10;200000;Colombia;A29;05/05/2013;Somalí;Africa;M;E03;Jirafa;Giraffa camelopardalis;Giraffidae;1
+Z05;Zoologico Cali;Cali;10;200000;Colombia;A30;06/06/2014;Somalí;Africa;H;E03;Jirafa;Giraffa camelopardalis;Giraffidae;1
+Z05;Zoologico Cali;Cali;10;200000;Colombia;A31;07/07/2015;Italia;Europa;M;E04;Ardilla roja;Sciurus vulgaris;Sciuridae;0
+Z05;Zoologico Cali;Cali;10;200000;Colombia;A32;08/08/2016;Italia;Europa;H;E04;Ardilla roja;Sciurus vulgaris;Sciuridae;0
+Z06;El Pinar;Caracas;40;250000;Venezuela;A33;01/01/2017;Zimbabwe;Africa;M;E01;Elefante;Elphas maximus;Elephantidae;1
+Z06;El Pinar;Caracas;40;250000;Venezuela;A34;02/02/2017;Bostswana;Africa;H;E01;Elefante;Elphas maximus;Elephantidae;1
+Z06;El Pinar;Caracas;40;250000;Venezuela;A35;03/03/2018;Per�;América Su;M;E05;Llama;Lama glama;Camelidae;0
+Z06;El Pinar;Caracas;40;250000;Venezuela;A36;04/04/2018;Bolivia;América Su;H;E05;Llama;Lama glama;Camelidae;0
+Z06;El Pinar;Caracas;40;250000;Venezuela;A37;05/05/2019;Per�;América Su;M;E06;Guanaco;Lama guanicoe;Camelidae;0
+Z06;El Pinar;Caracas;40;250000;Venezuela;A38;06/06/2020;Per�;América Su;H;E06;Guanaco;Lama guanicoe;Camelidae;0
+Z07;Parque Zoologico Huachipa;Lima;60;150000;Per�;A39;01/01/2014;Zimbabwe;Africa;M;E01;Elefante;Elphas maximus;Elephantidae;1
+Z07;Parque Zoologico Huachipa;Lima;60;150000;Per�;A40;01/02/2015;Bostswana;Africa;H;E01;Elefante;Elphas maximus;Elephantidae;1
+Z07;Parque Zoologico Huachipa;Lima;60;150000;Per�;A41;01/03/2016;Per�;América Su;M;E05;Llama;Lama glama;Camelidae;0
+Z07;Parque Zoologico Huachipa;Lima;60;150000;Per�;A42;01/04/2017;Bolivia;América Su;H;E05;Llama;Lama glama;Camelidae;0
+Z07;Parque Zoologico Huachipa;Lima;60;150000;Per�;A43;01/05/2018;Per�;América Su;M;E06;Guanaco;Lama guanicoe;Camelidae;0
+Z07;Parque Zoologico Huachipa;Lima;60;150000;Per�;A44;01/06/2019;Per�;América Su;H;E06;Guanaco;Lama guanicoe;Camelidae;0
+Z07;Parque Zoologico Huachipa;Lima;60;150000;Per�;A45;01/07/2020;China;Asia;M;E07;Oso Panda;Ailuropoda melanoleuca;Ursidae;1
+Z07;Parque Zoologico Huachipa;Lima;60;150000;Per�;A46;01/08/2021;China;Asia;H;E07;Oso Panda;Ailuropoda melanoleuca;Ursidae;1
